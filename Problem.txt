@@ -15,7 +15,7 @@ descendants person: Displays a list of all descendants of the node with name per
 
 ancestor person: Displays a list of all ancestors of the node with the name person. The command is ignored if there is no node in the tree with that name.
 
-Implement addLeftChild(), addRightChild(), and decendants() for the class starting on line 24 of Main.java.
+Implement addLeftChild(), addRightChild(), and decendants() for the class starting on line 40 of FamilyTree.java.
 
 I suggesting using the full screen button on the GUI during testing. You can build a test tree with the following commands:
 
